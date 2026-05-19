@@ -2,6 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+/*
 
         Empolye emp = new Empolye();
         emp.setName("Omar");
@@ -10,7 +11,7 @@ public class Main {
         emp.setRoomNumber("0.5");
         emp.setDepartment("Urology");
         emp.setPhoneNumber("0152137453");
-
-
+*/
+    new Hospital();
     }
 }
